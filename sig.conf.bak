@@ -1,6 +1,0 @@
-vdopiasample ; LOW ; WRANGLER ; ETL ; vdopia-etl=4
-vdopiasample ; HIGH ; VALIDATOR ; ETL ; vdopia-etl=2
-vdopiasample-bid ; MID ; INGESTOR ; ETL ; vdopia-etl=6
-vdopiasample-bid ; LOW ; WRANGLER ; ETL ; vdopia-etl=2
-vdopiasample ; MID ; JOINER ; ETL ; vdopia-etl=5
-vdopiasample ; HIGH ; VALIDATOR ; ETL ; vdopia-etl=4
